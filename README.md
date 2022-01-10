@@ -12,8 +12,7 @@
 
 
 
-
-<h5 style="text-align: center"> By img  Pluga </h5>
+<h5 style="text-align: center"> Thank you for see </h5>
 
 
 ## 📚 About
